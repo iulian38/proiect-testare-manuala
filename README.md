@@ -39,3 +39,4 @@ I just love *Orange HRM*.
 ###THESE ARE THE TEST CONDITION
 ![test CONDITION](https://github.com/iulian38/proiect-testare-manuala/blob/main/Screenshot%202023-05-05%20183356.jpg))
 
+TEST CASE [POZA2 ](https://github.com/iulian38/proiect-testare-manuala/blob/main/Screenshot%202023-05-05%202.jpg)
