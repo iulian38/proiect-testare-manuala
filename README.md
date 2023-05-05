@@ -57,11 +57,11 @@ TEST CASE [POZA2 ](https://github.com/iulian38/proiect-testare-manuala/blob/main
     2.7 Test monitoring and control
     
    
-     ### 1.Introduction
-  This test plan document describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for OrangeHRM.
+   ### 1.Introduction
+   This test plan document describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for OrangeHRM.
 
-     ### 2.Project Objective
-  The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using a live application.
+   ### 2.Project Objective
+   The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using a live application.
   
   4 Test implementation 
 + Verify if the following elements are ready before test execution:
@@ -72,12 +72,9 @@ Test cases were added to the cycle summary
 Postman collection with the API methods was created 
 Authorization token was created accessing the API and it is valid 
 
-Task                                                           Date                            Name/Team member
-Run functional test cases for                28.04. 2023               Alexandra Perja
-Job submenu of Admin module 
+  ### 3.Schedule
+A test schedule includes the testing steps or tasks, the target start and end date and responsibilities.
 
-Run GUI test cases for                       02.05. 2023                            Anca Pop 
-Job submenu of Admin module 
 
 | TASK  |DATE |  MEMBER TEAM  |
 |---|---|---|
