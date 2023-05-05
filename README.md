@@ -79,6 +79,12 @@ Job submenu of Admin module
 Run GUI test cases for                       02.05. 2023                            Anca Pop 
 Job submenu of Admin module 
 
+| TASK  |DATE |  MEMBER TEAM  |
+|---|---|---|
+|Run functional test cases for JOB of admin modul SUBMENU|24.04. 2023|Alexandra Perja|
+| Run GUI test cases for Job submenu of Admin module| 02.05. 2023| Anca Pop|  
+
+
 
 
 
